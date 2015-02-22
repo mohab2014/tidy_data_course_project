@@ -4,8 +4,8 @@
 ## Variables (Column names) with number of decimal digits when the variables are about mean or std
         
 ### Subject 2 (2 digits)
-    each subject (person) takes a number in the range 01-30.
-    01-30
+    each subject (person) takes a number in the range 1-30.
+    
 
 ### Activity 18 (18 characters)
     Six Activicites performed by each subject (person).
